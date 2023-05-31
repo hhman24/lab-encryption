@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\STUDY\CSC15003-MAUD\Lab\W6-PKCS7\W6-PKCS7\main.cpp(34,74): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\STUDY\CSC15003-MAUD\Lab\W6-PKCS7\W6-PKCS7\main.cpp(35,26): error C2664: 'size_t strlen(const char *)': cannot convert argument 1 from 'const unsigned char *' to 'const char *'
+D:\STUDY\CSC15003-MAUD\Lab\W6-PKCS7\W6-PKCS7\main.cpp(35,63): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\string.h(215,16): message : see declaration of 'strlen'
+D:\STUDY\CSC15003-MAUD\Lab\W6-PKCS7\W6-PKCS7\main.cpp(35,26): message : while trying to match the argument list '(const unsigned char *)'
+D:\STUDY\CSC15003-MAUD\Lab\W6-PKCS7\W6-PKCS7\main.cpp(35,79): warning C4477: 'printf' : format string '%02x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'unsigned char *'
+D:\STUDY\CSC15003-MAUD\Lab\W6-PKCS7\W6-PKCS7\main.cpp(35,79): warning C4313: 'printf': '%x' in format string conflicts with argument 1 of type 'unsigned char *'
