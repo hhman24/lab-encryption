@@ -1,0 +1,4 @@
+﻿  aes.cpp
+D:\STUDY\CSC15003-MAUD\Lab\w4-AES\w4-AES\aes.cpp(126,45): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+D:\STUDY\CSC15003-MAUD\Lab\w4-AES\w4-AES\aes.cpp(149,44): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+  w4-AES.vcxproj -> D:\STUDY\CSC15003-MAUD\Lab\w4-AES\x64\Debug\w4-AES.exe
